@@ -13,6 +13,8 @@ ul.nav {
 
 .jumbotron {
     text-align: center;
+    background-image: url("../images/hero_image.jpg");
+    color: #fff;
 }
 
 .jumbotron h1 {
@@ -22,8 +24,10 @@ ul.nav {
 
 .jumbotron p {
     margin-bottom: 30px;
+    font-weight: 100;
+    padding: 0 50px;
 }
 .btn-lg {
-    font-size: 36px;
+    font-size: 25px;
 }
 
