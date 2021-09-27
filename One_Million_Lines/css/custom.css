@@ -59,8 +59,14 @@ ul.nav {
     text-decoration: none;
 }
 
+.homepage a:hover{
+    color: #e74c3c;
+    text-decoration: none;
+    opacity: 0.7;
+}
 .homepage hr {
     border-color: #e74c3c;
     width: 160px;
     margin-top: 15px;
 }
+
